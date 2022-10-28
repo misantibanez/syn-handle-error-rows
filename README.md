@@ -1,4 +1,4 @@
-# syn-handle-error-rows
+# Externa Table
 - The following script create an external table handling errors. Mismatching rows are store in reject folder according table name.
 
 # Reference Links
